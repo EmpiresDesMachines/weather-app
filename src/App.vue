@@ -38,18 +38,6 @@
         </div>
       </div>
     </main>
-    <div class="hide">
-      <img src="~@/assets/img/bg2.webp" alt="bg2">
-      <img src="~@/assets/img/bg3.webp" alt="bg3">
-      <img src="~@/assets/img/bg4.webp" alt="bg4">
-      <img src="~@/assets/img/bg5.webp" alt="bg5">
-      <img src="~@/assets/img/bg6.webp" alt="bg6">
-      <img src="~@/assets/img/bg7.webp" alt="bg7">
-      <img src="~@/assets/img/bg8.webp" alt="bg8">
-      <img src="~@/assets/img/bg9.webp" alt="bg9">
-      <img src="~@/assets/img/bg10.webp" alt="bg10">
-
-    </div>
   </div>
 </template>
 
@@ -188,9 +176,6 @@ export default {
   height: 100vh
   overflow: hidden
   width: 100%
-
-.hide
-  display: none
 
 .header
   height: 96px
